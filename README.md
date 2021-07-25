@@ -45,7 +45,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+Dillinger requires [Node.js](https://nodejs.org/) v14+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
