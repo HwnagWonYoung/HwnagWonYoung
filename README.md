@@ -1,1 +1,1 @@
-![header](main.gif)
+![header](.gif)
